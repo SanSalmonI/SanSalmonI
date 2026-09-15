@@ -1,4 +1,4 @@
-<h2 align="center">Hey 👋! My name is Salmon.<br>I want to make really good games!</h2>
+<h2 align="center">Hey 👋! My name is Salmon.<br>I Build Tools and Art or Games!</h2>
 
 ###
 
