@@ -21,16 +21,16 @@
 <br clear="both">
 
 <div align="center">
-  <a href="YOUR_ITCH_URL" target="_blank">
+  <a href="https://itch.io/profile/sansalmoni" target="_blank">
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="itch logo"  />
   </a>
-  <a href="YOUR_DISCORD_URL" target="_blank">
+  <a href="discordapp.com/users/497175748528963594" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
   </a>
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:ssalmonize@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/santiago-salmon-ize-aa9424285/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
   </a>
 </div>
